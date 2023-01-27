@@ -1,11 +1,11 @@
 {
-    "name": "portfolio_x",
-    "short_name": "portfolio_x",
+    "name": "HorlahPortfolio",
+    "short_name": "HorlahPortfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Flutter Dev",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
